@@ -1,0 +1,25 @@
+:root {
+  background-color: white;
+  font-size: 72.5%;
+
+}
+
+* {
+  box-sizing: border-box;
+  font-family: arial, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #444;
+}
+
+
+h1,{
+  font-size: 5.4rem;
+  color: #000;
+
+}
+h2,
+h3,
+h4 {
+  margin-bottom: 1rem;
+}
